@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: PitchiReddyBovilla
+Build-Jdk: 14.0.1
+Implementation-Title: springboot-multiple-datasources
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.guides.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-multiple-datasources
+Created-By: Maven Integration for Eclipse
+
